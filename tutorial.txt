@@ -1,0 +1,3 @@
+git checkout
+git reset
+git revert
